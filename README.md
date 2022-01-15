@@ -15,7 +15,6 @@ My names oxmc, or leland as some of you may know me
 
 My discord status:
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/740965195496816721
-                            )](https://discord.com/users/740965195496816721)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/740965195496816721)](https://discord.com/users/740965195496816721)
 
 Google developer page: <a href="https://g.dev/oxmc7769">https://g.dev/oxmc7769</a>
