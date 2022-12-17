@@ -13,7 +13,7 @@ My names oxmc, or leland as some of you may know me
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![Php](https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxmc&count_private=true&theme=dark&show_icons=true&hide_langs_below=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxmc&count_private=true&theme=dark&show_icons=true&hide=c%2B%2B)
 
 ## My discord status:
 
