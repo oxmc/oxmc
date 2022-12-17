@@ -2,14 +2,14 @@
 
 My names oxmc, or leland as some of you may know me
 
-- 🔭 I’m currently working on <a href="https://github.com/Griphitor/Griphitor">Griphitor IDE</a>
+- 🔭 I’m currently working on nothing.
 - 📫 How to reach me:
   - Discord: oxmc#7769
-  - Email: contact@oxmc.xyz
+  - Email: contact@oxmc.xyz or oxmc7769@gmail.com
 
 ## Languages I Use
-![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![Php](https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white)
 
