@@ -2,7 +2,7 @@
 
 My names oxmc, or leland as some of you may know me
 
-- 🔭 I’m currently working on <a href="https://github.com/hooverhigh/quest-2-management">Quest-2-Management</a>.
+- 🔭 I’m currently working on <a href="https://github.com/oxmc/browser-logos-css">Browser Logos CSS</a>.
 - 📫 How to reach me:
   <!--- Discord: oxmc#7769-->
   - Email: oxmc@hooverhigh.ml or oxmc7769@gmail.com
