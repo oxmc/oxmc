@@ -4,7 +4,7 @@ My names oxmc, or leland as some of you may know me
 
 - 🔭 I’m currently working on <a href="https://github.com/oxmc/browser-logos-css">Browser Logos CSS</a>.
 - 📫 How to reach me:
-  - Discord: oxmc7769
+  - Discord: <a href="https://discord.com/users/1079881924769755196">oxmc7769</a>
   - Email: contact@oxmc.is-a.dev
 
 ## Languages I Use
